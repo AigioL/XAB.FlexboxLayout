@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>XAB.FlexboxLayout</id>
-    <version>1.0.0</version>
+    <version>1.0.0.181104</version>
     <title>Xamarin Android Binding Library - FlexboxLayout</title>
     <authors>https://github.com/AigioL</authors>
     <owners>https://github.com/AigioL</owners>
@@ -12,8 +12,8 @@
     <description>FlexboxLayout Binding for Xamarin Android. https://github.com/google/flexbox-layout
 
 Commonly Used Types:
-Com.Google.Android.Flexbox.FlexboxLayout
-Com.Google.Android.Flexbox.FlexboxLayoutManager</description>
+* `com.google.android.flexbox.FlexboxLayout` -> `Android.Flexbox.FlexboxLayout`
+* `com.google.android.flexbox.FlexboxLayoutManager` -> `Android.Flexbox.FlexboxLayoutManager`</description>
     <tags>FlexboxLayout flexbox-layout Flex Box Google Wrapping LinearLayout Xamarin Plugin Binding Xamarin.Android</tags>
     <repository type="git" url="https://github.com/AigioL/XAB.FlexboxLayout.git" />
     <dependencies>

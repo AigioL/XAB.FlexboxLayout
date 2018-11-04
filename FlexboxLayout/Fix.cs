@@ -10,9 +10,9 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 
-namespace Com.Google.Android.Flexbox
-{
-    interface IFlexContainer { }
+//namespace Android.Flexbox
+//{
+//    interface IFlexContainer { }
 
-    interface IFlexItem { }
-}
+//    interface IFlexItem { }
+//}
