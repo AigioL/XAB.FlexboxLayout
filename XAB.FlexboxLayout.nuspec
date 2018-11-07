@@ -9,7 +9,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://raw.githubusercontent.com/AigioL/XAB.FlexboxLayout/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/AigioL/XAB.FlexboxLayout</projectUrl>
-    <description>FlexboxLayout="" Binding for Xamarin Android. https://github.com/google/flexbox-layout
+    <description>FlexboxLayout Binding for Xamarin Android. https://github.com/google/flexbox-layout
 
 Commonly Used Types:
 com.google.android.flexbox.FlexboxLayout -> Android.Flexbox.FlexboxLayout
@@ -18,7 +18,7 @@ com.google.android.flexbox.FlexboxLayoutManager -> Android.Flexbox.FlexboxLayout
     <repository type="git" url="https://github.com/AigioL/XAB.FlexboxLayout.git" />
     <dependencies>
       <group targetFramework="MonoAndroid8.1">
-        <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="[27.0.2.1]" />
+        <dependency id="Xamarin.Android.Support.v7.RecyclerView" version="27.0.2.1" />
       </group>
     </dependencies>
   </metadata>
