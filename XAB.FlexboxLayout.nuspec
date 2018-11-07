@@ -9,11 +9,11 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://raw.githubusercontent.com/AigioL/XAB.FlexboxLayout/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/AigioL/XAB.FlexboxLayout</projectUrl>
-    <description>FlexboxLayout Binding for Xamarin Android. https://github.com/google/flexbox-layout
+    <description>FlexboxLayout="" Binding for Xamarin Android. https://github.com/google/flexbox-layout
 
 Commonly Used Types:
-* `com.google.android.flexbox.FlexboxLayout` -> `Android.Flexbox.FlexboxLayout`
-* `com.google.android.flexbox.FlexboxLayoutManager` -> `Android.Flexbox.FlexboxLayoutManager`</description>
+com.google.android.flexbox.FlexboxLayout -> Android.Flexbox.FlexboxLayout
+com.google.android.flexbox.FlexboxLayoutManager -> Android.Flexbox.FlexboxLayoutManager</description>
     <tags>FlexboxLayout flexbox-layout Flex Box Google Wrapping LinearLayout Xamarin Plugin Binding Xamarin.Android</tags>
     <repository type="git" url="https://github.com/AigioL/XAB.FlexboxLayout.git" />
     <dependencies>
